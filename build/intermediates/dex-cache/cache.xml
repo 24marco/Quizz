@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f60b0b2e0f59dfd7c9a2aecc7f768c3dc5e60918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_14ef0d833b25115f40acfa3dd029a25673c4d50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4bc2f5f4c52b7856b2e2adeb931a4ded186ea1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_eeb3baa12fa1032496b3f80eeeee2ba1151b2e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_36ba7278e002075b2be1839a7c4ae504a6616d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\indio\AndroidStudioProjects\Quizz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_94bb5bd1d9823a21442e04620a45b469457d2331.jar" />
+    </item>
+
+</items>
