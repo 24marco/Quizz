@@ -1,0 +1,375 @@
+[
+    {
+        "outputFile": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 45,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 51,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 55,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 59,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 46,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 50,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 43,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 47,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 39,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 69,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 63,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 70,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 67,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 58,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 55,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 53,
+                    "endOffset": 1070
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1075,
+                    "endColumn": 52,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 52,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 56,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 57,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 50,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 51,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 50,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 54,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 55,
+                    "endOffset": 1503
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1508,
+                    "endColumn": 42,
+                    "endOffset": 1546
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1551,
+                    "endColumn": 43,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endColumn": 45,
+                    "endOffset": 1636
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1641,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "C:\\Users\\indio\\AndroidStudioProjects\\Quizz\\app\\src\\main\\res\\values-land\\styles.xml"
+                }
+            }
+        ]
+    }
+]
