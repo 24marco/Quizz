@@ -1,0 +1,133 @@
+{
+  "JSON": [
+    {
+      "id": "1",
+      "type": "11",
+      "question": "This quadrilateral has only one pair of parallel lines.",
+      "a1": [
+        "quadrilateral",
+        false
+      ],
+      "a2": [
+        "rhombus",
+        false
+      ],
+      "a3": [
+        "trapezoid",
+        true
+      ],
+      "hint": ""
+    },
+    {
+      "id": "2",
+      "type": "21",
+      "question": "What kind of triangle has at least 2 sides that are equal?",
+      "a1": [
+        "equilateral",
+        true
+      ],
+      "a2": [
+        "scalene",
+        false
+      ],
+      "a3": [
+        "isosceles",
+        true
+      ],
+      "hint": ""
+    },
+    {
+      "id": "3",
+      "type": "31",
+      "question": "What do we call an 8 sides polygon?",
+      "a1": "octagon",
+      "hint": ""
+    },
+    {
+      "id": "4",
+      "type": "22",
+      "question": "What so we call a parallelogram with 4 parallel sides and 4 right angles?",
+      "a1": [
+        "rhombus",
+        true
+      ],
+      "a2": [
+        "trapezoid",
+        false
+      ],
+      "a3": [
+        "square",
+        true
+      ],
+      "hint": ""
+    },
+    {
+      "id": "5",
+      "type": "12",
+      "question": "What do we call a polygon where all sides are the same and all angles are the same?",
+      "a1": [
+        "irregular polygon",
+        false
+      ],
+      "a2": [
+        "regular polygon",
+        true
+      ],
+      "a3": [
+        "rectangle",
+        false
+      ],
+      "hint": ""
+    },
+    {
+      "id": "6",
+      "type": "32",
+      "question": "pentagon has how many sides?",
+      "a1": "5",
+      "hint": ""
+    },
+	{
+      "id": "7",
+      "type": "13",
+      "question": "An acute triangle has...",
+      "a1": [
+        "1 right angle",
+        false
+      ],
+      "a2": [
+        "3 acute angles",
+        true
+      ],
+      "a3": [
+        "2 acute angles",
+        false
+      ],
+      "hint": ""
+    },
+    {
+      "id": "8",
+      "type": "23",
+      "question": "A square is a ....",
+      "a1": [
+        "rhombus",
+        true
+      ],
+      "a2": [
+        "rectangle",
+        true
+      ],
+      "a3": [
+        "all of the above",
+        true
+      ],
+      "hint": ""
+    },
+    {
+      "id": "9",
+      "type": "33",
+      "question": "What kind of triangle has all sides equal?",
+      "a1": "equilateral",
+      "hint": ""
+    }
+  ]
+}

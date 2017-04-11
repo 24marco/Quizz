@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LLId_14"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/activity_bottom_margin"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/questionId_14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/questionType_14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/questionText_14"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_right"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:text="Question?"
+        android:textSize="16sp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup_14"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_answer_1_2_height"
+        android:orientation="vertical"
+        android:background="@color/colorBackground"
+        android:paddingTop="@dimen/activity_padding_top"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_right" >
+
+        <RadioButton
+            android:id="@+id/radioButton1_14"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer1"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton2_14"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer2"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton3_14"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer3"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp" />
+
+    </RadioGroup>
+
+</LinearLayout>

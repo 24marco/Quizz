@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LLId_32"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/activity_bottom_margin"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/questionId_32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/questionType_32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/questionText_32"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_left"
+        android:background="@color/colorPrimary"
+        android:padding="6dp"
+        android:text="Question?"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/answerText_32"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_answer_3_height"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_right"
+        android:background="@color/colorBackground"
+        android:hint="Answer"
+        android:imeOptions="actionDone"
+        android:paddingLeft="8dp"
+        android:singleLine="true"
+        android:textColorHint="@color/colorTextHint"
+        android:textSize="16sp" />
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LLId_24"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/activity_bottom_margin"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/questionId_24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/questionType_24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/questionText_24"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_right"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:text="Question?"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_answer_1_2_height"
+        android:layout_marginLeft="@dimen/activity_margin_left"
+        android:layout_marginRight="@dimen/activity_margin_right"
+        android:paddingTop="@dimen/activity_padding_top"
+        android:background="@color/colorBackground"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/checkBox1_24"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer1"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp"/>
+
+        <CheckBox
+            android:id="@+id/checkBox2_24"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer2"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp"/>
+
+        <CheckBox
+            android:id="@+id/checkBox3_24"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:gravity="top"
+            android:paddingLeft="8dp"
+            android:text="Answer3"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
